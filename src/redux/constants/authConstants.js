@@ -1,0 +1,17 @@
+export const SET_USER_DATA_SUCCESS = "SET_USER_DATA_SUCCESS";
+export const SET_USER_DATA_FAIL = "SET_USER_DATA_FAIL";
+
+export const SIGNUP_SUCCESS = "SIGNUP_SUCCESS";
+export const SIGNUP_FAIL = "SIGNUP_FAIL";
+
+export const SIGNIN_SUCCESS = "SIGNIN_SUCCESS";
+export const SIGNIN_FAIL = "SIGNIN_FAIL";
+
+export const RESET_PASSWORD_SUCCESS = "RESET_PASSWORD_SUCCESS";
+export const RESET_PASSWORD_FAIL = "RESET_PASSWORD_FAIL";
+
+export const LOGOUT = "LOGOUT";
+
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+
+export const ERROR_MESSAGE = "Something went wrong.";
