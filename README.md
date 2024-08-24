@@ -4,6 +4,7 @@
 
 A boilerplate for building modern React applications with Firebase, Tailwind CSS, and Redux Toolkit. This starter kit is designed to help developers quickly spin up a new React project with best practices and a scalable architecture.
 
+[**View Demo**](https://firestart-react.web.app/)
 
 ## Table of Contents
 
