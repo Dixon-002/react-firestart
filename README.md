@@ -45,7 +45,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 
 **Clone the Repository**
 
-    git clone https://github.com/Dixon-002/react-firestart.git
+    git clone https://github.com/serhii-kalashnyk/react-firestart.git
     cd react-firestart
 
 **Install Dependencies**
